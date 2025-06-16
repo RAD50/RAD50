@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  currently working on home lab <br>👯 looking to collaborate on anything on cyber security <br>🤝 looking for help with CTF<br>🌱 presently learning a bit of everything <br>💬 Ask me about PC<br>⚡ "You act like mortals in all that you fear, And like immortals in all that you desire. When time flies away and death comes near, You realize that life is just the candle on fire."
+🔭  currently working on home lab <br>👯 looking to collaborate on anything on cyber security <br>🤝 looking for help with CTF<br>🌱 presently learning a bit of everything <br>💬 Ask me about PC<br>⚡ "I don't need luck, though. I've always had to struggle and fight and that's made me strong. It's made me who I am."
 
 
 # 💻 Tech Stack:
